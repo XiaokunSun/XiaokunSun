@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# 👋 Hi there! 
 
 I'm Xiaokun Sun! Welcome to my GitHub profile! Here’s a little bit about me:
 
@@ -8,7 +8,7 @@ I'm Xiaokun Sun! Welcome to my GitHub profile! Here’s a little bit about me:
 - 🌱 I'm keen on sports and food
 - 📫 How to reach me: xiaokun_sun@smail.nju.edu.cn
 
-## More Links
+## 🔗 More Links
 - Google Scholar: [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xiaokunsun.github.io/)
 - Personal Website: [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SG3SxqEAAAAJ)
 
