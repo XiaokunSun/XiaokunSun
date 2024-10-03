@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-I'm Xiaokun Sun! Welcome to my GitHub profile! Here’s a little bit about me:
+I'm Xiaokun Sun! Welcome to my GitHub profile!
 
 ## 🫠 About Me
 - 🎓 I'm a PhD student at Nanjing University
