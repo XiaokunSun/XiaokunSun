@@ -1,4 +1,4 @@
-# 👋 Hi there! 
+# 👋 Hi! 
 
 I'm Xiaokun Sun! Welcome to my GitHub profile!
 
