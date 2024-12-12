@@ -10,7 +10,7 @@ I'm Xiaokun Sun! Welcome to my GitHub profile!
 
 ## 🔗 More Links
 - Google Scholar: [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SG3SxqEAAAAJ)
-- Personal Website: [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xiaokunsun.github.io/)
+- Personal Website: [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xiaokunsun.github.io)
 
 ## <center> 🧮 Visitor Count
 <p align="center"> 
