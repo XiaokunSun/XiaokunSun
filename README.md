@@ -3,7 +3,7 @@ I'm Xiaokun Sun! Welcome to my GitHub profile!
 
 ## 🫠 About Me
 - 🎓 I'm a PhD student at Nanjing University
-- 🔭 I'm currently researching on human-centric 3D digitization
+- 🔭 I'm currently researching on 3D content generation
 - 🌱 I'm keen on sports and food
 - 📫 How to reach me: xiaokun_sun@smail.nju.edu.cn
 
